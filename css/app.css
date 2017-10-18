@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan');
+body{
+    background-color: #283593;
+    font-family:  'Baloo Chettan', cursive;
+    color:#fff;
+}
+h1{
+    margin-top: 18%;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.temp-info{
+    font-size: 2rem;
+}
+#weather-icon{
+    font-size: 3.5rem;
+    /* color:#8c9eff; */
+}
+#temperature{
+    font-size: 3.5rem;
+}
+#temperature:hover{
+    font-size: 3.5rem;
+    color:#707ECC;
+    /* background-color: #8c9eff; */
+    opacity: 0.5;
+    cursor: pointer;
+}
